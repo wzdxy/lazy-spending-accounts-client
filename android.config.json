@@ -1,0 +1,6 @@
+{
+  "AppName":"WeexApp",
+  "AppId":"me.zchi.hello",
+  "SplashText":"Hello\nWeex",
+  "WeexBundle":"index.js"
+}
